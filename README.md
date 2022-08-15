@@ -27,10 +27,12 @@ Wood (measurements using 0.5 in thick board)
 Wood glue and finishing nails
 
 Simple version
-<img src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title" width="800">
+<img src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title" width="600">
 <img src="images/buildPic.jpg" alt="build picture" title="Optional title" width="400">
-Version with ultrasonic sensor and LED
 
-<img src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title" width="400">
-(Not the exact wiring I used on the current version but very close)Box design
-<img src="/images\boxDesign.JPG" alt="box design " title="Optional title"width="400">
+Version with ultrasonic sensor and LED
+<img src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title" width="600">
+(Not the exact wiring I used on the current version but very close)
+
+Box design
+<img src="/images\boxDesign.JPG" alt="box design" title="Optional title"width="400">
