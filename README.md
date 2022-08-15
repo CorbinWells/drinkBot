@@ -29,8 +29,10 @@ Wood glue and finishing nails
 Simple version
 <br>
 <img align="left" width="800" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title"><br>
+<br>
 <img align="left" width="400" src="images/buildPic.jpg" alt="build picture" title="Optional title"><br>
-<p align="right">Version with ultrasonic sensor and LED</p>
+<br>
+<p align="left">Version with ultrasonic sensor and LED</p>
 
 <img align="left" width="800" src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title"><br>
 <br>
