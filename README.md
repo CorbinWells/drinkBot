@@ -32,9 +32,9 @@ Simple version
 
 <img align="left" width="400" src="images/buildPic.jpg" alt="build picture" title="Optional title">
 </p>
-
-Version with ultrasonic sensor and LEDS
 <p>
+Version with ultrasonic sensor and LEDS
+
 <img align="left" width="800" src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title">
 </p>
 (Not the exact wiring I used on the current version but very close)
