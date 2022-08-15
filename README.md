@@ -25,17 +25,15 @@ Wood (measurements using 0.5 in thick board)
 1x 7 x 4 in
 1x 8 x 5 in
 Wood glue and finishing nails
-<P>
+
 Simple version
 <img align="left" width="800" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title">
 <img align="left" width="400" src="images/buildPic.jpg" alt="build picture" title="Optional title">
-</p>
-<p>
+
 Version with ultrasonic sensor and LEDS
 <img align="left" width="800" src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title">
 (Not the exact wiring I used on the current version but very close)
-</p>
-<p>
+
 Box design
 <img align="left" width="500" img src="/images\boxDesign.JPG" alt="box design " title="Optional title">
-</p>
+
