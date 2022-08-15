@@ -29,7 +29,7 @@ Wood glue and finishing nails
 Simple version
 <P>
 <img align="left" width="800" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title">
-  <b></b>
+
 <img align="left" width="400" src="images/buildPic.jpg" alt="build picture" title="Optional title">
 </p>
 
