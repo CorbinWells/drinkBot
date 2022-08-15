@@ -28,11 +28,11 @@ Wood (measurements using 0.5 in thick board)
 Wood glue and finishing nails
 
 Simple version
+![](images/simpleSketch.jpg)
 ![](images/buildPic.jpg)
-<img src="/drinkBot\images\buildPic.jpg" alt="build picture" title="Optional title">
 Version with ultrasonic sensor and LEDS
-<img src="/drinkBot\images\DrinkBotsketch.png" alt="drink bot sketch" title="Optional title">
+![](images/DrinkBotsketch.png)
 (Not the exact wiring I used on the current version but very close)
 
 Box design
-<img src="/drinkBot\images\boxDesign.JPG" alt="box design " title="Optional title">
+![](images/boxDesign.JPG)
