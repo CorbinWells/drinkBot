@@ -1,4 +1,3 @@
-# drinkBot
 What is Drink Bot?
 A machine that dispense drinks
 Example
@@ -28,11 +27,12 @@ Wood (measurements using 0.5 in thick board)
 Wood glue and finishing nails
 
 Simple version
-![](images/simpleSketch.jpg)
-![](images/buildPic.jpg)
+<img src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title" width="100">
+<img src="images/buildPic.jpg" alt="build picture" title="Optional title" width="100">
+
 Version with ultrasonic sensor and LEDS
-![](images/DrinkBotsketch.png)
+<img src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title" width="100">
 (Not the exact wiring I used on the current version but very close)
 
 Box design
-![](images/boxDesign.JPG)
+<img src="/images\boxDesign.JPG" alt="box design " title="Optional title" width="100">
