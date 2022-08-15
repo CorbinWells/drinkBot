@@ -28,13 +28,14 @@ Wood glue and finishing nails
 
 Simple version
 <P>
-<img align="left" width="500" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title">
-<img align="left" width="300" src="images/buildPic.jpg" alt="build picture" title="Optional title">
+<img align="left" width="800" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title">
+  <b></b>
+<img align="left" width="400" src="images/buildPic.jpg" alt="build picture" title="Optional title">
 </p>
 
 Version with ultrasonic sensor and LEDS
 <p>
-<img align="left" width="500" src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title">
+<img align="left" width="800" src="images/DrinkBotsketch.png" alt="drink bot sketch" title="Optional title">
 </p>
 (Not the exact wiring I used on the current version but very close)
 
