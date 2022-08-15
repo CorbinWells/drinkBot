@@ -28,7 +28,7 @@ Wood (measurements using 0.5 in thick board)
 Wood glue and finishing nails
 
 Simple version
-<img src="drinkBot/images/simpleSkatch.jpg" alt="simple sketch" title="Optional title">
+![Alt text](drinkBot\images\buildPic.jpg?raw=true "Title")
 <img src="/drinkBot\images\buildPic.jpg" alt="build picture" title="Optional title">
 Version with ultrasonic sensor and LEDS
 <img src="/drinkBot\images\DrinkBotsketch.png" alt="drink bot sketch" title="Optional title">
