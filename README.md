@@ -27,7 +27,7 @@ Wood (measurements using 0.5 in thick board)
 Wood glue and finishing nails
 
 Simple version
-<img align="left" width="200" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title" width="500">
+<img align="left" width="800" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title" width="500">
 <img src="images/buildPic.jpg" alt="build picture" title="Optional title" width="500">
 
 Version with ultrasonic sensor and LEDS
