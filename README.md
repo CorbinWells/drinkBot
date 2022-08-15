@@ -4,19 +4,19 @@ Example
 There are two pumps at the moment one for coke and one for whisky. You can call either cola, whisky or both together making a whisky and cola.
 
 Parts used
-Uno clone
-bred board medium
-3x4 Keypad
-2x peristaltic Pumps
-4 OD and 2 ID food grade tubing
-8 channel relays
-Ultrasonic sensor
-12-volt wall wart
-Female DC jack
-3x 330 oms resisters
-3 MOSFITS
-RGB LED strip
-Dupont wires
+Uno clone<br>  
+bred board medium<br>  
+3x4 Keypad<br>  
+2x peristaltic Pumps<br>  
+4 OD and 2 ID food grade tubing<br>  
+8 channel relays<br>  
+Ultrasonic sensor<br>  
+12-volt wall wart<br>  
+Female DC jack<br>  
+3x 330 oms resisters<br>  
+3 MOSFITS<br>  
+RGB LED strip<br>  
+Dupont wires<br>  
 
 Wood (measurements using 0.5 in thick board)
 2x 12 x 8 in
@@ -27,6 +27,7 @@ Wood (measurements using 0.5 in thick board)
 Wood glue and finishing nails
 
 Simple version
+<br>
 <img align="left" width="800" src="images/simpleSkatch.jpg" alt="simple sketch" title="Optional title">
 <img align="left" width="400" src="images/buildPic.jpg" alt="build picture" title="Optional title">
 
